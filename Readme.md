@@ -1,4 +1,4 @@
-### **All Shop Images**
+### **All Images**
 
 [![Realtime Downloads](https://img.shields.io/github/downloads/flaxixy-boy/B4UFFEU/Shop/total?style=for-the-badge&color=blue&logo=github&cacheSeconds=0)](https://github.com/flaxixy-boy/B4UFFEU/releases/tag/Shop)
 
